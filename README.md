@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @TexZ-GenZ
+- 👋 Hi, I’m Priyanshu Samal from IIIT Bhubaneswar.
 
-- 👀 I’m interested in Competitive Programming.
+- 👀 I’m currently in first year and have interest in Competetive programming and app development.
 
-- 🌱 I’m currently learning Data structure and algorithms.
+- 🌱 I’m currently learning DSA in C++ as well as kotlin, python and frontend.
 
-- 💞️ I’m looking to collaborate on nothing for now.
+- 💞️ I’m looking to collaborate on projects that align with my interests.
 
 - 📫 How to reach me :- By my Email id which is priyanshusamal21@gmail.com
 
