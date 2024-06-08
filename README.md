@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Priyanshu Samal from IIIT Bhubaneswar.
 
-- 👀 I’m currently in first year and have interest in Competetive programming and app development.
+- 👀 I’m currently in second year and interested in web development and competetive programming.
 
-- 🌱 I’m currently learning DSA in C++ as well as kotlin, python and frontend.
+- 🌱 I’m currently learning webdev through MERN stack as well as DSA in c++.
 
 - 💞️ I’m looking to collaborate on projects that align with my interests.
 
