@@ -1,32 +1,69 @@
-<h1 align="center">Hi 👋, I'm Priyanshu samal</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+# Hi there 👋, my name is Priyanshu Samal
+### I am a Frontend Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=texz-genz&label=Profile%20views&color=0e75b6&style=flat" alt="texz-genz" /> </p>
+---
 
-- 👋 Hi, I’m Priyanshu Samal from IIIT Bhubaneswar.
+I am a passionate Frontend Web developer from India. Currently, I'm diving deep into backend technologies to transition into a full stack developer role, focusing on mastering the ***MERN*** stack. Additionally, I engage in competitive programming using languages like C++ and Python.
 
-- 👀 I’m currently in second year and interested in web development and competetive programming.
+---
 
-- 🌱 I’m currently learning webdev through MERN stack as well as DSA in c++.
+## 🚀 Skills:
+- **Frontend:** REACT / JS / HTML / CSS
+- **Programming Languages:** C++ / PYTHON / KOTLIN
+- **Tools:** GIT
 
-- 💞️ I’m looking to collaborate on projects that align with my interests.
+---
 
-- 📫 How to reach me :- By my Email id which is **priyanshusamal21@gmail.com**
+## 🌟 Current Focus:
+- 🔭 Working on learning the MERN stack.
+- 🌱 Studying Full Stack web development.
+- 👯 Open to collaborating on projects that align with my interests.
+- 🤔 Seeking help with internship opportunities.
+- 💬 Feel free to ask me about Web development.
+- 📫 Reach out to me at: priyanshusamal21@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I use 8 spaces instead of tabs... (Just kidding).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/priyanshu samal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu samal" height="30" width="40" /></a>
-<a href="https://instagram.com/_priyanshu_samal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_priyanshu_samal" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/t_e_x_z26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="t_e_x_z26" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/priyanshu_samal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="priyanshu_samal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/priyanshu_samal_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshu_samal_123" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+## 🌐 Connect with me:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40' style='border-radius: 50%; box-shadow: 0 0 10px #FF4500;'>](https://github.com/TexZ-GenZ)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40' style='border-radius: 50%; box-shadow: 0 0 10px #0e76a8;'>](https://www.linkedin.com/in/Priyanshu-Samal/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram' height='40' style='border-radius: 50%; box-shadow: 0 0 10px #E1306C;'>](https://www.instagram.com/_priyanshu_samal/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40' style='border-radius: 50%; box-shadow: 0 0 10px #FF4500;'>](https://www.reddit.com/user/u/Material-Tackle-1647)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='LeetCode' height='40' style='border-radius: 50%; box-shadow: 0 0 10px #FFA116;'>](https://leetcode.com/u/Priyanshu_Samal_123/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='CodeChef' height='40' style='border-radius: 50%; box-shadow: 0 0 10px #5B4638;'>](https://www.codechef.com/users/t_e_x_z26)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=texz-genz&show_icons=true&locale=en&layout=compact" alt="texz-genz" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=texz-genz&show_icons=true&locale=en" alt="texz-genz" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TexZ-GenZ&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=texz-genz&" alt="texz-genz" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TexZ-GenZ&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=TexZ-GenZ&theme=tokyonight&hide_border=true)
+
+---
+
+<style>
+@keyframes neon-border {
+  0% {
+    box-shadow: 0 0 5px #ff0099, 0 0 10px #ff0099, 0 0 15px #ff0099, 0 0 20px #ff0099;
+  }
+  50% {
+    box-shadow: 0 0 20px #ff0099, 0 0 30px #ff0099, 0 0 40px #ff0099, 0 0 50px #ff0099;
+  }
+  100% {
+    box-shadow: 0 0 5px #ff0099, 0 0 10px #ff0099, 0 0 15px #ff0099, 0 0 20px #ff0099;
+  }
+}
+
+img {
+  animation: neon-border 2s infinite;
+}
+
+body {
+  background-color: #0d1117;
+  color: #c9d1d9;
+  font-family: 'Courier New', Courier, monospace;
+}
+</style>
