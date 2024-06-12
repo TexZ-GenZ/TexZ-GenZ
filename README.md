@@ -51,14 +51,8 @@ I am a passionate Frontend Web developer from India. Currently, I'm diving deep 
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TexZ-GenZ&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TexZ-GenZ&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TexZ-GenZ&theme=dark&hide_border=true" alt="GitHub Streak Stats">
-</p>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TexZ-GenZ&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="width: 32%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=TexZ-GenZ&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" style="width: 32%;">
+  <img src="https://streak-stats.demolab.com/?user=TexZ-GenZ&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="width: 32%;">
+</div>
