@@ -36,34 +36,71 @@ I am a passionate Frontend Web developer from India. Currently, I'm diving deep 
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TexZ-GenZ&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TexZ-GenZ&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TexZ-GenZ&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TexZ-GenZ&show_icons=true&theme=dark&hide_border=true)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=TexZ-GenZ&theme=tokyonight&hide_border=true)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=TexZ-GenZ&theme=dark&hide_border=true)
 
 ---
 
 <style>
-@keyframes neon-border {
-  0% {
-    box-shadow: 0 0 5px #ff0099, 0 0 10px #ff0099, 0 0 15px #ff0099, 0 0 20px #ff0099;
-  }
-  50% {
-    box-shadow: 0 0 20px #ff0099, 0 0 30px #ff0099, 0 0 40px #ff0099, 0 0 50px #ff0099;
-  }
-  100% {
-    box-shadow: 0 0 5px #ff0099, 0 0 10px #ff0099, 0 0 15px #ff0099, 0 0 20px #ff0099;
-  }
+body {
+  background-color: #1a1d23;
+  color: #c9d1d9;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 16px;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #c9d1d9;
+}
+
+a {
+  text-decoration: none;
+  color: #c9d1d9;
+}
+
+a:hover {
+  color: #c9d1d9;
 }
 
 img {
-  animation: neon-border 2s infinite;
+  border-radius: 50%;
+  box-shadow: 0 0 10px #c9d1d9;
 }
 
-body {
-  background-color: #0d1117;
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  background-color: #1a1d23;
   color: #c9d1d9;
-  font-family: 'Courier New', Courier, monospace;
+  font-size: 16px;
+  text-align: center;
+}
+
+th, td {
+  border: 1px solid #c9d1d9;
+  padding: 10px;
+}
+
+th {
+  background-color: #1a1d23;
+  color: #c9d1d9;
+}
+
+td {
+  background-color: #1a1d23;
+  color: #c9d1d9;
+}
+
+tr:nth-child(even) {
+  background-color: #2f3640;
+}
+
+tr:nth-child(odd) {
+  background-color: #1a1d23;
 }
 </style>
