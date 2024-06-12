@@ -1,3 +1,5 @@
+<body style="background-color: #181818; color: #FFFFFF; font-family: Arial, sans-serif;">
+
 # Hi there 👋, my name is Priyanshu Samal
 ### I am a Frontend Developer
 
@@ -51,16 +53,10 @@ I am a passionate Frontend Web developer from India. Currently, I'm diving deep 
 
 ---
 
-<table style="width:100%">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TexZ-GenZ&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="width: 100%;">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=TexZ-GenZ&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" style="width: 100%;">
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=TexZ-GenZ&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="width: 100%;">
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TexZ-GenZ&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="width: 30%; border-radius: 10px; box-shadow: 0 0 15px #0FF;">
+  <img src="https://github-readme-stats.vercel.app/api?username=TexZ-GenZ&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" style="width: 30%; border-radius: 10px; box-shadow: 0 0 15px #0FF;">
+  <img src="https://streak-stats.demolab.com/?user=TexZ-GenZ&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="width: 30%; border-radius: 10px; box-shadow: 0 0 15px #0FF;">
+</div>
+
+</body>
