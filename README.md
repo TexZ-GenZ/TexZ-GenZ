@@ -51,8 +51,16 @@ I am a passionate Frontend Web developer from India. Currently, I'm diving deep 
 
 ---
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TexZ-GenZ&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="width: 32%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=TexZ-GenZ&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" style="width: 32%;">
-  <img src="https://streak-stats.demolab.com/?user=TexZ-GenZ&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="width: 32%;">
-</div>
+<table style="width:100%">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TexZ-GenZ&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="width: 100%;">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=TexZ-GenZ&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" style="width: 100%;">
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=TexZ-GenZ&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="width: 100%;">
+    </td>
+  </tr>
+</table>
