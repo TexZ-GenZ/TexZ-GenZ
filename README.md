@@ -14,7 +14,7 @@ I am a passionate Frontend Web developer from India. Currently, I'm diving deep 
 
 ---
 
-## 🌟 Current Focus:
+  🌟 Current Focus:
 - 🔭 Working on learning the MERN stack.
 - 🌱 Studying Full Stack web development.
 - 👯 Open to collaborating on projects that align with my interests.
