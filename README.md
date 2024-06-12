@@ -39,7 +39,7 @@ I am a passionate Frontend Web developer from India. Currently, I'm diving deep 
   <a href="https://www.instagram.com/_priyanshu_samal/" style="margin-right: 10px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="40" style="border-radius: 50%; box-shadow: 0 0 10px #E1306C;">
   </a>
-  <a href="https://www.reddit.com/user/Material-Tackle-1647" style="margin-right: 10px;">
+  <a href="https://www.reddit.com/u/Material-Tackle-1647/s/yXNm4JqiaS" style="margin-right: 10px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="Reddit" height="40" style="border-radius: 50%; box-shadow: 0 0 10px #FF4500;">
   </a>
   <a href="https://leetcode.com/u/Priyanshu_Samal_123/" style="margin-right: 10px;">
