@@ -89,10 +89,6 @@ I am a passionate Frontend Web developer from India. Currently, I'm diving deep 
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Dev Quote">
 </p>
 
-### 😂 Random Dev Meme
-<p align="center">
-  <img src="https://memer-new.vercel.app/" style="height: 400px;" alt="Dev Meme">
-</p>
 
 ---
 
