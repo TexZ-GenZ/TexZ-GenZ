@@ -1,29 +1,40 @@
 # Hi there 👋, my name is Priyanshu Samal
 
-### I am a Frontend Developer
+### I am a Full Stack Developer in Progress
 
 ---
 
-I am a passionate Frontend Web developer from India. Currently, I'm diving deep into backend technologies to transition into a full stack developer role, focusing on mastering the ***MERN*** stack. Additionally, I engage in competitive programming using languages like C++ and Python.
+I am an enthusiastic Frontend Web Developer from India who is on the path to becoming a skilled Full Stack Developer. Currently, I am expanding my expertise to include backend technologies, focusing on mastering the ***MERN*** stack, along with exploring modern tools and frameworks. I actively engage in competitive programming and love coding in languages like C++ and Python.
 
 ---
 
 ## 🌟 Current Focus:
-- 🔭 Working on learning the MERN stack.
-- 🌱 Studying Full Stack web development.
-- 👯 Open to collaborating on projects that align with my interests.
-- 🤔 Seeking help with internship opportunities.
-- 💬 Feel free to ask me about Web development.
-- 📫 Reach out to me at: priyanshusamal21@gmail.com
+- 🔭 Learning and building projects with the MERN stack.
+- 🌱 Deepening my knowledge of Full Stack web development.
+- 👯 Open to collaborating on innovative and exciting projects.
+- 🤔 Looking for internship and job opportunities.
+- 💬 Ask me anything related to Web and Mobile development.
+- 📫 You can reach me at: priyanshusamal21@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I use 8 spaces instead of tabs... (Just kidding).
+- ⚡ Fun fact: I use 8 spaces instead of tabs (Just kidding!).
 
 ---
 
 ## 🚀 Skills:
-- **Frontend:** REACT / JS / HTML / CSS
-- **Programming Languages:** C++ / PYTHON / KOTLIN
-- **Tools:** GIT
+### Frontend:
+- **React.js**, **Next.js**, **Redux.js**, **HTML**, **CSS**, **Tailwind CSS**
+### Backend:
+- **Node.js**, **Express.js**
+### Mobile Development:
+- **React Native**
+### Machine Learning & Data Processing:
+- **TensorFlow**, **OpenCV**
+### Programming Languages:
+- **C++**, **Python**, **Kotlin**
+### Tools & Technologies:
+- **Git**, **GitHub**, **Amazon Web Services (AWS)**
+### IoT & Hardware:
+- **Arduino**
 
 ---
 
@@ -54,17 +65,16 @@ I am a passionate Frontend Web developer from India. Currently, I'm diving deep 
 
 ## 💻 Tech Stack:
 <p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GithubPages" />
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
 ---
@@ -89,7 +99,6 @@ I am a passionate Frontend Web developer from India. Currently, I'm diving deep 
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Dev Quote">
 </p>
 
-
 ---
 
 <p align="center">
@@ -97,5 +106,3 @@ I am a passionate Frontend Web developer from India. Currently, I'm diving deep 
 </p>
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
