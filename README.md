@@ -238,6 +238,7 @@ I am an enthusiastic Full Stack Developer from India with a passion for building
 [![Instagram](https://img.shields.io/badge/-Instagram-CD853F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_priyanshu_samal/)
 [![Reddit](https://img.shields.io/badge/-Reddit-A0522D?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/u/Material-Tackle-1647)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-DEB887?style=for-the-badge&logo=leetcode&logoColor=8B4513)](https://leetcode.com/u/Priyanshu_Samal_123/)
+[![X (Twitter)](https://img.shields.io/badge/-X-F4A460?style=for-the-badge&logo=x&logoColor=8B4513)](https://x.com/PriyanshuorTexz)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-8B4513?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/t_e_x_z26)
 
 </div>
