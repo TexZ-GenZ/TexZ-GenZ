@@ -254,7 +254,7 @@ I am an enthusiastic Full Stack Developer from India with a passion for building
 ![Python](https://img.shields.io/badge/Python-%23A0522D.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23DEB887.svg?style=for-the-badge&logo=postgresql&logoColor=8B4513)
 ![Redis](https://img.shields.io/badge/Redis-%23F4A460.svg?style=for-the-badge&logo=redis&logoColor=8B4513)
-![AWS](https://img.shields.io/badge/AWS-8B4513?style=for-the-badge&logo=amazon-aws&logoColor=D2B48C)
+![AWS](https://img.shields.io/badge/AWS-%23B85C00.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%23CD853F.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
