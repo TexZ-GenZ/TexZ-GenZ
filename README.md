@@ -11,8 +11,8 @@
 ---
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=TexZ-GenZ&label=Profile%20Views&color=8B4513&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/TexZ-GenZ?label=Followers&style=for-the-badge&color=D2691E&labelColor=8B4513" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=TexZ-GenZ&label=Profile%20Views&style=for-the-badge&color=8B4513&labelColor=D2691E" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/TexZ-GenZ?label=Followers&style=for-the-badge&color=8B4513&labelColor=D2691E" alt="GitHub Followers" />
 </p>
 
 
@@ -254,7 +254,7 @@ I am an enthusiastic Full Stack Developer from India with a passion for building
 ![Python](https://img.shields.io/badge/Python-%23A0522D.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23DEB887.svg?style=for-the-badge&logo=postgresql&logoColor=8B4513)
 ![Redis](https://img.shields.io/badge/Redis-%23F4A460.svg?style=for-the-badge&logo=redis&logoColor=8B4513)
-![AWS](https://img.shields.io/badge/AWS-%23D2B48C.svg?style=for-the-badge&logo=amazon-aws&logoColor=8B4513)
+![AWS](https://img.shields.io/badge/AWS-8B4513?style=for-the-badge&logo=amazon-aws&logoColor=D2B48C)
 ![Docker](https://img.shields.io/badge/Docker-%23CD853F.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
