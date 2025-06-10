@@ -82,7 +82,7 @@ I am an enthusiastic Full Stack Developer from India with a passion for building
 <td align="center" width="300">
 <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="60"/>
 <br><strong>FastAPI</strong>
-<br><sub>High-performance APIs ⚡</sub>
+<br><sub>High performance APIs ⚡</sub>
 </td>
 <td align="center" width="300">
 <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60"/>
